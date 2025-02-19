@@ -13,7 +13,7 @@ website/out/
 website/dist/
 
 # Vercel
-website/.vercel
+.vercel
 
 # Environment files
 website/.env
